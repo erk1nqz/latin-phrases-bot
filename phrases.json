@@ -1,0 +1,123 @@
+{
+    "Тема 1: Мудрость": [
+      "Carpe diem (Пользуйся моментом)",
+      "Aquila non capit muscas (Орёл не ловит мух)",
+      "Aegrescit medendo (Болезнь усиливается от лечения)",
+      "Per aspera ad astra (Через тернии к звёздам)",
+      "Non scholae sed vitae discimus (Мы учимся не для школы, а для жизни)",
+      "Cogito, ergo sum (Мыслю, следовательно, существую)",
+      "Audentes fortuna iuvat (Смелым помогает удача)",
+      "Veni, vidi, vici (Пришёл, увидел, победил)",
+      "Memento mori (Помни о смерти)",
+      "Dum spiro, spero (Пока дышу, надеюсь)"
+    ],
+    "Тема 2: Любовь": [
+      "Amor vincit omnia (Любовь побеждает всё)",
+      "Amantes sunt amentes (Влюблённые — безумцы)",
+      "Dulce et decorum est pro patria mori (Сладко и почётно умирать за Родину)",
+      "Amor tussisque non celantur (Любовь и кашель не скроешь)",
+      "Amicus certus in re incerta cernitur (Настоящего друга узнают в беде)",
+      "Amor gignit amorem (Любовь рождает любовь)",
+      "Dum spiro, amo (Пока дышу, люблю)",
+      "Fama volat (Слух летит)",
+      "In vino veritas (В вине — истина)",
+      "Aqua vitae (Вода жизни)"
+    ],
+    "Тема 3: Сила и мощь": [
+      "Fortuna audaces iuvat (Удача благосклонна к смелым)",
+      "Cedant arma togae (Пусть оружие уступит тоге)",
+      "Astra inclinant, sed non obligant (Звёзды указывают путь, но не обязывают)",
+      "Cuiusvis hominis est errare (Каждому человеку свойственно ошибаться)",
+      "Suum cuique (Каждому своё)",
+      "Faber est suae quisque fortunae (Каждый кузнец своей судьбы)",
+      "Fortes fortuna adiuvat (Смелым помогает судьба)",
+      "Fortiter in re, suaviter in modo (Сильно в деле, мягко в общении)",
+      "Parvis imbutus tentabis grandia tutus (Начинай с малого, чтобы добиться большого)",
+      "Sic transit gloria mundi (Так проходит мирская слава)"
+    ],
+    "Тема 4: Время и его ценность": [
+      "Tempus fugit (Время бежит)",
+      "Ars longa, vita brevis (Искусство вечно, жизнь коротка)",
+      "Aeternum vale (Прощай вечно)",
+      "Fugit hora (Час уходит)",
+      "Horas non numero nisi serenas (Считаю только светлые часы)",
+      "Tempus edax rerum (Время — пожиратель вещей)",
+      "Vita brevis, ars longa (Жизнь коротка, искусство долго)",
+      "Post tenebras lux (После тьмы — свет)",
+      "Punctum temporis (Мгновение времени)",
+      "Tempus vincit omnia (Время побеждает всё)"
+    ],
+    "Тема 5: Успех и цели": [
+      "Per angusta ad augusta (Через трудности к возвышенному)",
+      "Ad astra per aspera (К звёздам через тернии)",
+      "Ad meliora (К лучшему)",
+      "Dum vita est, spes est (Пока есть жизнь, есть надежда)",
+      "Perseverantia omnia vincit (Выносливость побеждает всё)",
+      "Fortuna favet fortibus (Удача благосклонна к смелым)",
+      "Audaces fortuna iuvat (Смелым помогает удача)",
+      "In omnia paratus (Готов ко всему)",
+      "Sapere aude (Дерзай мыслить)",
+      "Audentes fortuna adiuvat (Смелым судьба помогает)"
+    ],
+    "Тема 6: Дружба и отношения": [
+      "Amicus certus in re incerta cernitur (Настоящего друга узнают в беде)",
+      "Amor et melle et felle est fecundissimus (Любовь и мёд, и жёлчь плодотворны)",
+      "Amor patriae nostra lex (Любовь к родине — наш закон)",
+      "Amor tussisque non celantur (Любовь и кашель не скроешь)",
+      "In vino veritas (В вине — истина)",
+      "In virtute sunt multi ascensores ad honores (В добродетели — множество ступеней к почестям)",
+      "Qui non est hodie cras minus aptus erit (Кто не готов сегодня, завтра будет менее пригоден)",
+      "Vita sine amicitia mors est (Жизнь без дружбы — смерть)",
+      "Dum spiro, spero (Пока дышу, надеюсь)",
+      "Vincit qui se vincit (Побеждает тот, кто побеждает самого себя)"
+    ],
+    "Тема 7: Истина и знание": [
+      "Veritas vos liberabit (Истина освободит вас)",
+      "Cognoscere est vincere (Познавать — значит побеждать)",
+      "Scientia potentia est (Знание — сила)",
+      "Nosce te ipsum (Познай самого себя)",
+      "Do ut des (Даю, чтобы ты дал)",
+      "In dubio abstine (В сомнении воздерживайся)",
+      "Mundus vult decipi (Мир хочет быть обманутым)",
+      "Veritas numquam perit (Истина никогда не погибает)",
+      "Docendo discimus (Мы учимся, уча других)",
+      "Aquila non capit muscas (Орёл не ловит мух)"
+    ],
+    "Тема 8: Жизненная философия": [
+      "Dum spiro, spero (Пока дышу, надеюсь)",
+      "Carpe diem (Пользуйся моментом)",
+      "Memento mori (Помни о смерти)",
+      "Aegrescit medendo (Болезнь усиливается от лечения)",
+      "Per aspera ad astra (Через тернии к звёздам)",
+      "Cogito, ergo sum (Мыслю, следовательно, существую)",
+      "Fortuna favet fortibus (Удача благосклонна к смелым)",
+      "Non scholae sed vitae discimus (Мы учимся не для школы, а для жизни)",
+      "Aquila non capit muscas (Орёл не ловит мух)",
+      "Sic transit gloria mundi (Так проходит мирская слава)"
+    ],
+    "Тема 9: Воля и решимость": [
+      "Fortes fortuna adiuvat (Смелым судьба помогает)",
+      "In necessariis unitas, in dubiis libertas, in omnibus caritas (В необходимом — единство, в сомнительном — свобода, во всём — любовь)",
+      "Per ardua ad astra (Через трудности к звёздам)",
+      "Veni, vidi, vici (Пришёл, увидел, победил)",
+      "Alea iacta est (Жребий брошен)",
+      "Per angusta ad augusta (Через трудности к возвышенному)",
+      "Audentes fortuna iuvat (Смелым помогает удача)",
+      "Fortiter in re, suaviter in modo (Сильно в деле, мягко в общении)",
+      "Perseverantia omnia vincit (Выносливость побеждает всё)",
+      "Sapere aude (Дерзай мыслить)"
+    ],
+    "Тема 10: Свобода и независимость": [
+      "Libertas quae sera tamen (Свобода, хоть и поздно)",
+      "Veritas vos liberabit (Истина освободит вас)",
+      "Vox populi, vox Dei (Голос народа — голос Бога)",
+      "In necessariis unitas, in dubiis libertas, in omnibus caritas (В необходимом — единство, в сомнительном — свобода, во всём — любовь)",
+      "Salus populi suprema lex esto (Благо народа — высший закон)",
+      "Ubi bene, ibi patria (Где хорошо, там и родина)",
+      "Magna est veritas et praevalet (Велика истина и сильна)",
+      "Nemo me impune lacessit (Никто не обижает меня безнаказанно)",
+      "Non omnis moriar (Не весь я умру)",
+      "Non sub homine sed sub Deo et lege (Под Богом и законом, а не под человеком)"
+    ]
+  }
+  
